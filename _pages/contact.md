@@ -7,4 +7,4 @@ toc: false
 toc_sticky: false
 ---
 
-More information can be found in the Committee blog. If you have questions that are not answered there, please email the program co-chairs at **acl2024pcs@gmail.com**.
+If you have questions about this site, or the project, email us at [{{ site.email }}](mailto:{{ site.email }}).

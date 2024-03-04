@@ -1,24 +1,33 @@
 ---
-title: "The 62nd Annual Meeting of the Association for Computational Linguistics"
+title: ACL Rolling Review Data Collection (ARR-DC)
 layout: splash
 permalink: /
 header:
   overlay_image: "/assets/images/bangkok/bangkok-banner.jpeg"
   caption: 'Photo by <a href="https://www.istockphoto.com/th/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%99%E0%B9%89%E0%B9%8D%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E-gm619764040-108168277?phrase=bangkok">boykpc</a> on <a href="http://www.istockphoto.com">iStock</a>'
-excerpt: "Bangkok, Thailand<br>August 11&ndash;16, 2024"
+excerpt: Collecting and curating a large-scale dataset of peer reviews and associated metadata from the ACL community.
 ---
 
 ## Welcome!
 
-The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) will take place in **Bangkok, Thailand** from **August 11th to 16th, 2024**.
-More information will be announced soon.
+This is the overview website for the ACL Rolling Review Data Collection (ARR-DC)
+project. The ARR-DC project is a community-driven effort to collect and curate a
+large-scale dataset of peer reviews and associated metadata from the ACL
+community. The dataset will be used to develop and evaluate machine learning
+models for automatic peer review, and to study the peer review process in the
+ACL community.
+
+Considering the recent developments in natural language processing, we believe
+it is time to ramp up our efforts in studying peer review in our community. The
+use of tools like ChatGPT for assistance during reviewing is just one example of
+the changes that are happening in the peer review process. We believe that the
+ARR-DC project will be a valuable resource for the community to study these
+changes and to develop new tools and methods to improve the peer review process.
 
 ## News
 
-**The official ACL 2024 website is launched.**
+**The official ARR-DC website is launched.**
 {: .text-center .notice--info}
-
-
 
 <!--style>
 /*.news-table { font-size: .9em; table-layout: fixed; text-align: left; }
@@ -66,13 +75,9 @@ The [**Conference Program Schedule**](/program/) is now online.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| Mar 3, 2024 | The information about venue and visa details have been posted.
-| Feb 26, 2024 | Submission link for [Call for System Demonstration](/calls/system_demonstration) is posted.
-| Jan 31, 2024 | [Call for System Demonstration](/calls/system_demonstration) is posted.
-| Jan 24, 2024 | [Call for Student Research Workshop](/calls/student_research_workshop) is posted.
-| Jan 19, 2024 | [Call for Main Conference Papers](/calls/main_conference_papers) is posted.
-| Nov 24, 2023 | The list of accepted workshops and tutorials have been posted.
-| Oct 25, 2023 | The official ACL 2024 website is launched.
+
+| Feb 2, 2024 | The ARR data collection project is born.
+| Jan 28, 2024 | [Dagstuhl seminar on peer review](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24052).
 {: .news-table}
 
 <!-- [Older News](/archive/){: .btn .btn--info}
@@ -89,25 +94,22 @@ The [**Conference Program Schedule**](/program/) is now online.
 | ~~Co-located event: [NLP Summer School 2021](https://ampln.github.io/escuelaverano2021/)~~ | ~~Thursday – Friday~~ | ~~June 3 – 4, 2021~~ |
 !-->
 
-
-
-## Important Dates
+<!-- ## Important Dates
 
 Tutorials | Sunday | August 11, 2024 |
 Main Conference | Monday – Wednesday | August 12 – 14, 2024 |
-Workshop | Thursday - Friday | August 15 -16, 2024 |
+Workshop | Thursday - Friday | August 15 -16, 2024 | -->
 
-<style>
+<!-- <style>
 .dates-table { font-size: .9em; }
 .dates-table tr td:nth-child(1) { width: 55%; }
 .dates-table tr td:nth-child(2) { width: 25%; }
 .dates-table del { color: #888; }
 </style>
 
-
 {: .dates-table}
 <br>
-<b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> (anywhere on earth).</b>
+<b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> (anywhere on earth).</b> -->
 
 <!--
 | June 18, 2021 | Blogpost by D&I chairs: [Increasing Financial Accessibility in NAACL](/blog/dni-subsidies).

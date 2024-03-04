@@ -13,32 +13,32 @@ main:
 
   #- title: "Proceedings"
   #  url: "https://aclanthology.org/events/emnlp-2022/"
-  - title: "Calls"
-    url: /calls/main_conference_papers/
+  # - title: "Calls"
+  #   url: /calls/main_conference_papers/
 
-  - title: "Program"
-    url: /program/
+  # - title: "Program"
+  #   url: /program/
 
   #- title: "Registration"
   #  url: /registration/
 
-  #- title: "Blog"
-  #  url: /blog/
+  # - title: "Blog"
+  #   url: /blog/
 
-  - title: "Committees"
+  - title: "Organization"
     url: /organization
 
   #- title: "Sponsors"
   #  url: /sponsors/
 
-  #- title: "Contact"
-  #  url: /contact
+  - title: "Contact"
+    url: /contact
 
   #- title: "Volunteers"
   #  url: /volunteers 
 
-  - title: "Venue"
-    url: /venue/
+  # - title: "Venue"
+  #   url: /venue/
 
   #- title: "Reviewer"
   #  url: /not_available
@@ -53,17 +53,17 @@ main:
   #  url: /ethics/faq/
 
 
-program:
-  - title: Programs
-    children:
-      - title: "Conference Overview"
-        url: /program/
-#      - title: "Keynote"
-#        url: /program/keynotes/
-      - title: "Workshops"
-        url: /program/workshops/
-      - title: "Tutorials"
-        url: /program/tutorials/
+# program:
+#   - title: Programs
+#     children:
+#       - title: "Conference Overview"
+#         url: /program/
+# #      - title: "Keynote"
+# #        url: /program/keynotes/
+#       - title: "Workshops"
+#         url: /program/workshops/
+#       - title: "Tutorials"
+#         url: /program/tutorials/
 #      - title: "Careers in NLP"
 #        url: /program/careers_in_nlp/
 #      - title: "Social Programs"
@@ -79,15 +79,15 @@ program:
 #      - title: "List of Sponsors"
 #        url: /sponsors/list/
 
-calls:
-  - title: "Call for"
-    children:
-      - title: "Main Conference Papers"
-        url: /calls/main_conference_papers/
-      - title: "Student Research Workshop"
-        url: /calls/student_research_workshop/
-      - title: "System Demonstration"
-        url: /calls/system_demonstration/
+# calls:
+#   - title: "Call for"
+#     children:
+#       - title: "Main Conference Papers"
+#         url: /calls/main_conference_papers/
+#       - title: "Student Research Workshop"
+#         url: /calls/student_research_workshop/
+#       - title: "System Demonstration"
+#         url: /calls/system_demonstration/
 #      - title: "Industry Track Papers"
 #        url: /calls/industry_track/
 #      - title: "Style Files and Formatting"
@@ -148,9 +148,9 @@ calls:
      #    url: /participants/social/
 
 committees:
-  - title: Committees
+  - title: Organization
     children:
-      - title: "Organizing Committee"
+      - title: "Project Organization"
         url: /organization/
       #- title: "Senior Program Committee"
       #  url: /committees/program/
@@ -159,15 +159,15 @@ committees:
       #- title: "Diversity & Inclusion Committee"
       #  url: /committees/diversity-inclusion/
       -
-venue:
-  - title: "Information for"
-    children:
-      - title: "Venue"
-        url: /venue/
-      - title: "Visa"
-        url: /venue/visa/
-      - title: "Travel"
-        url: /venue/travel/
+# venue:
+#   - title: "Information for"
+#     children:
+#       - title: "Venue"
+#         url: /venue/
+#       - title: "Visa"
+#         url: /venue/visa/
+#       - title: "Travel"
+#         url: /venue/travel/
 #      - title: "Industry Track Papers"
 #        url: /calls/industry_track/
 #      - title: "Style Files and Formatting"

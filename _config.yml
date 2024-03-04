@@ -17,13 +17,13 @@ livereload: true
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ACL 2024"
+title                    : "ARR Data Collection"
 title_separator          : "-"
-name                     : "acl"
-description              : "Official website for the 62nd Annual Meeting of the Association for Computational Linguistics"
-url                      : "https://github.com/acl-org/acl-2024" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "arr-data-collection"
+description              : "Official website for the ACL Rolling Review Data Collection Project"
+url                      : "https://github.com/KDercksen/acl-data-collection-website" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "acl-org/acl-2024" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "KDercksen/acl-data-collection-website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logos/acl-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "          " # overrides the website title displayed in the masthead, use " " for no title
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "ACL2024"
+    shortname            : "ARR-DC"
 reCaptcha:
   siteKey                :
   secret                 :
@@ -57,7 +57,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : aclmeeting
+  username               : ReviewAcl
 
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Koen Dercksen"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "AI Researcher @ Radboud University Nijmegen, World Brain Scholar"
+  location         : "Nijmegen, The Netherlands"
   email            :
   links:
-    - label: "Email"
+    - label: "koen.dercksen@ru.nl"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
