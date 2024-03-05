@@ -88,6 +88,13 @@ institution="TU Darmstadt"
 email = ""
 %}
 
+{% include committee-member.html
+name="Sheng Lu"
+picture="/assets/images/committee/Lu_Sheng.png"
+institution="TU Darmstadt"
+email = ""
+%}
+
 <h2>Website</h2>
 {% include committee-member.html
 name="Koen Dercksen"
