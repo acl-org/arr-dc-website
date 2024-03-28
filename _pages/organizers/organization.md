@@ -50,7 +50,7 @@ Koen Dercksen
    name="Margot Mieskes"
    picture="/assets/images/committee/Mieskes_Margot.jpg"
    institution="Hochschule Darmstadt"
-   email = ""
+   email = "margot.mieskes@h-da.de"
 %}
 
 <h2>Research Data Management</h2>
@@ -61,7 +61,7 @@ Koen Dercksen
    name="Lizhen Qu"
    picture="/assets/images/committee/Qu_Lizhen.jpg"
    institution="Monash University"
-   email = ""
+   email = "lizhen.qu@monash.edu"
 %}
 
 <h2>Empirical Protocol Design</h2>
@@ -69,14 +69,14 @@ Koen Dercksen
 name="Thamar Solorio"
 picture="/assets/images/committee/Solorio_Thamar.png"
 institution="Mohamed Bin Zayed University of Artificial Intelligence"
-email = ""
+email = "thamar.solorio@mbzuai.ac.ae"
 %}
 
 {% include committee-member.html
 name="Xiaodan Zhu"
 picture="/assets/images/committee/Zhu_Xiaodan.jpg"
 institution="Queen's University"
-email = ""
+email = "xiaodan.zhu@queensu.ca"
 %}
 
 <h2>Technical Implementation</h2>
@@ -85,14 +85,14 @@ email = ""
 name="Nils Dycke"
 picture="/assets/images/committee/Dycke_Nils.jpg"
 institution="TU Darmstadt"
-email = ""
+email = "nils.dycke@tu-darmstadt.de"
 %}
 
 {% include committee-member.html
 name="Sheng Lu"
 picture="/assets/images/committee/Lu_Sheng.png"
 institution="TU Darmstadt"
-email = ""
+email = "sheng.lu@tu-darmstadt.de"
 %}
 
 <h2>Website</h2>
@@ -100,5 +100,5 @@ email = ""
 name="Koen Dercksen"
 picture="/assets/images/committee/Dercksen_Koen.jpg"
 institution="Radboud University Nijmegen"
-email = ""
+email = "koen@cs.ru.nl"
 %}
