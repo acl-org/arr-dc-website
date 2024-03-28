@@ -67,7 +67,7 @@ Koen Dercksen
 <h2>Empirical Protocol Design</h2>
 {% include committee-member.html
 name="Thamar Solorio"
-picture="/assets/images/committee/Solorio_Thamar.jpg"
+picture="/assets/images/committee/Solorio_Thamar.png"
 institution="Mohamed Bin Zayed University of Artificial Intelligence"
 email = ""
 %}
