@@ -2,9 +2,8 @@
 title: Project Organization
 layout: single
 excerpt: "ARR-DC Organizers."
-permalink: /organization/
-sidebar:
-  nav: "organizers"
+permalink: /organization
+sidebar: false
 ---
 
 <!--

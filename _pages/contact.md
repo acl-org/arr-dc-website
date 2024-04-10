@@ -7,4 +7,8 @@ toc: false
 toc_sticky: false
 ---
 
-If you have questions about this site, or the project, email us at [{{ site.email }}](mailto:{{ site.email }}).
+If you have questions about this site, or the project, email us at:
+
+```
+arr-dc@acl.org
+```
