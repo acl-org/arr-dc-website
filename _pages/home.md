@@ -3,8 +3,8 @@ title: ACL Rolling Review Data Collection (ARR-DC)
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/bangkok/bangkok-banner.jpeg"
-  caption: 'Photo by <a href="https://www.istockphoto.com/th/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%99%E0%B9%89%E0%B9%8D%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E-gm619764040-108168277?phrase=bangkok">boykpc</a> on <a href="http://www.istockphoto.com">iStock</a>'
+  overlay_image: "/assets/images/banner.png"
+  caption: "Image generated using MidJourney"
 excerpt: Collecting and curating a large-scale dataset of peer reviews and associated metadata from the ACL community.
 ---
 
@@ -21,7 +21,10 @@ While there is already peer review data collection happening in the ACL venues
 (Dycke et al. 2023), the resulting data is skewed towards papers with more
 positive reviewer scores. By adapting the data collection protocol to create
 more balanced data resources, we can improve the quality of this line of
-research.
+research. For the current data collection protocol, as well as the changes made
+in comparison to the earlier protocol, see the [Protocol page](/protocol/). Some
+resources to get started with the subject of NLP research on peer review are
+listed on the [Resources page](/resources/).
 
 Considering the recent developments in natural language processing, we believe
 it is time to ramp up our efforts in studying peer review in our community. The
@@ -31,9 +34,21 @@ data collected in the ARR-DC project will be a valuable resource for the
 community to study these changes and to develop new tools and methods to improve
 the peer review process.
 
+## How can I contribute?
+
+You can contribute by donating your data to the ARR-DC corpus by signing the
+respective license transfer agreements when submitting to or reviewing for \*ACL
+affiliated venues. For more information, see the [Protocol page](/protocol/). It
+is always possible to withdraw your consent for future donation of your data -
+however, note that retraction of individual data points is infeasible after
+publication.
+
+For more detailed information, see [this
+blogpost](https://aclrollingreview.org/datacollection) on the ARR website.
+
 ## News
 
-**The official ARR-DC website is launched.**
+**The new data collection protocol is implemented in the April 2024 ARR cycle.**
 {: .text-center .notice--info}
 
 <!--style>
@@ -83,7 +98,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
-| Apr 4, 2024 | The data collection protocol is approved by the ACL Ethics Committee. |
+| Apr 4, 2024 | The [data collection protocol](/protocol/) is approved by the ACL Ethics Committee. |
 | Feb 2, 2024 | The ARR data collection project is born. |
 | Jan 28, 2024 | [Dagstuhl seminar on peer review](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24052). |
 {: .news-table}

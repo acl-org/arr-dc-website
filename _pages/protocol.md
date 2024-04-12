@@ -9,13 +9,16 @@ toc_sticky: false
 
 ## Information for authors, reviewers and meta-reviewers
 
-The data collection protocol for ARR-DC builds on the initiative by Gurevych and Kuznetsov (2021).
-A general overview of the updated data collection protocol for each role in the peer review process can be found below.
+The data collection protocol for ARR-DC builds on the initiative by [Gurevych
+and Kuznetsov (2021)](/resources/). A general overview of the updated data
+collection protocol for each role in the peer review process can be found below.
 
 **Note that full consent by authors and reviewers is always required before any data is published.**
 
 The ARR-DC organization invests reasonable effort to allow reviewers and authors
-to withdraw their consent and license agreement at any time.
+to withdraw their consent and license agreement at any time. The protocol
+described below was approved by the [ACL Ethics
+Committee](https://www.aclweb.org/adminwiki/index.php?title=Formation_of_the_ACL_Ethics_Committee).
 
 _In order to view the main novelties of the data collection protocol, see the bottom section on this page._
 
@@ -47,9 +50,8 @@ their meta-reviews to be included as-is or paraphrased.
 
 ### Important changes
 
-Before the April 2024 cycle of ARR, data collection was already happening. From
-April 2024 onwards, the protocol described above will be in place. Below are the
-key novelties with respect to the pre-April 2024 protocol:
+From April 2024 onwards, the protocol described above will be in place. Below
+are the key novelties with respect to the pre-April 2024 protocol:
 
 - Meta-reviewers will be asked to sign a license agreement to donate their
   meta-reviews of a cycle. The collection of meta-reviews is a new addition to the
