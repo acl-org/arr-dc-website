@@ -13,11 +13,11 @@ excerpt: Collecting and curating a large-scale dataset of peer reviews and assoc
 This is the overview website for the ACL Rolling Review Data Collection (ARR-DC)
 project. The ARR-DC project is a community-driven effort to collect and curate a
 large-scale dataset of peer reviews and associated metadata from the ACL
-community. The dataset will be used to develop and evaluate machine learning
-models for automatic peer review, and to study the peer review process in the
-ACL community.
+community. The dataset will be used to study the peer review process in the ACL
+community, and to develop new tools and methods to improve peer reviewing in our
+conferences.
 
-While there is already peer review data collection happening in the ACL venues
+While peer review data collection is currently happening in the ACL venues
 (Dycke et al. 2023), the resulting data is skewed towards papers with more
 positive reviewer scores. By adapting the data collection protocol to create
 more balanced data resources, we can improve the quality of this line of
