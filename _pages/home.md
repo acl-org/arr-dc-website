@@ -22,10 +22,9 @@ While peer review data collection is currently happening in the ACL venues
 positive reviewer scores. By adapting the data collection protocol to create
 more balanced data resources, we can improve the quality of this line of
 research. For the current data collection protocol, as well as the changes made
-in comparison to the earlier protocol, see the [Protocol page]({% link
-_pages/protocol.md %}). Some resources to get started with the subject of NLP
-research on peer review are listed on the [Resources page]({% link
-_pages/resources.md %}).
+in comparison to the earlier protocol, see the [Protocol page](/protocol). Some
+resources to get started with the subject of NLP research on peer review are
+listed on the [Resources page](/resources).
 
 Considering the recent developments in natural language processing, we believe
 it is time to ramp up our efforts in studying peer review in our community. The
@@ -39,64 +38,22 @@ the peer review process.
 
 You can contribute by donating your data to the ARR-DC corpus by signing the
 respective license transfer agreements when submitting to or reviewing for \*ACL
-affiliated venues. For more information, see the [Protocol page]({% link
-_pages/protocol.md %}). It is always possible to withdraw your consent for
-future donation of your data - however, note that retraction of individual data
-points is infeasible after publication.
+affiliated venues. For more information, see the [Protocol page](/protocol). It
+is always possible to withdraw your consent for future donation of your data -
+however, note that retraction of individual data points is infeasible after
+publication.
 
 ## News
 
 **The new data collection protocol is implemented in the April 2024 ARR cycle.**
 {: .text-center .notice--info}
 
-<!--style>
-/*.news-table { font-size: .9em; table-layout: fixed; text-align: left; }
-.news-table tr td:nth-child(1) { font-weight: bold; width: 42em; }*/
-.news-table { font-size: .9em; table-layout: fixed;}
-.news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }
-.news-table tr td:nth-child(2) {font-weight: bold; width: 55em; }
-</style>
-| Dec 2, 2022 | [Birds of a Feather (BoF) Sessions at EMNLP](blog/Birds-of-a-Feather-(BoF)-Sessions-at-EMNLP/)
-| Dec 1, 2022 | [TACL Paper (published in the MIT Press): Template-based Abstractive Microblog Opinion Summarisation](blog/TACL-Paper-2/)
-| Nov 21, 2022 | [TACL Paper (published in the MIT Press): Multi-task Active Learning for Pre-trained Transformer-based Models](blog/TACL-Paper-1/)
-| Oct 25, 2022 | [Discounted Student Accommodations at EMNLP 2022](blog/Discounted-Student-Accommodations/)
-| Oct 14, 2022 | [Call for BoF Proposals](blog/Call-for-BoF-Proposals/)
-| Oct 4, 2022 | [LGBTQ+ Visitor Considerations](/blog/EMNLP-2022-Abu-Dhabi-LGBTQ+-Visitor-Considerations)
-| Sep 30, 2022 | [Call for Diversity and Inclusion Subsidies](/blog/Call-for-Diversity-and-Inclusion-Subsidies)
-| Aug 15, 2022 | [Short Pieces on Reviewing](/blog/Short-Pieces-on-Reviwing)
-{: .news-table}
-
-[LOG POSTS](/blog/){: .btn .btn--info}
-{: .text-center}
-
-<div class="text-center notice--danger">
-<p>Please fill out the short <a href="https://forms.office.com/r/Ww583kAMf7"><strong>post-conference survey</strong></a> to help us better organize future conferences.</p>
-<p style="font-size: 80%">The survey takes ~4 minutes to complete. Note that there will be no email receipt once you hit submit, and please only submit once.
-Aggregate statistics for non-text answers may be made publicly available. Answers to this survey will remain anonymous.
-Any questions or direct feedback can be sent to <a href="mailto:naacl-contact@aclweb.org">naacl-contact@aclweb.org</a>.
-</p>
-</div>
-
-NAACL D&I videos are now available on our [**Youtube channel**](https://www.youtube.com/channel/UCbdq7M48OgNoPIa9Uj_IBCw).
-{: .text-center .notice--info}
-
-The [**Virtual Conference Website**](https://underline.io/events/122/reception)
-([walkthrough video](https://screencast-o-matic.com/watch/crhwbGVh3vx))
-is still available for registered participants.
-A subset of the content will be made available without registration in mid July,
-and the pre-recorded talks for authors who opted in will be uploaded to the ACL anthology.<br>
-<img src="/assets/images/logos/underline.png" style="max-height: 5em;">
-{: .text-center .notice--info}
-
-The [**Conference Program Schedule**](/program/) is now online.
-{: .text-center .notice--info} -->
-
 <style>
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
-| Apr 4, 2024 | The [data collection protocol]({% link _pages/protocol.md %}) is approved by the ACL Ethics Committee. |
+| Apr 4, 2024 | The [data collection protocol](/protocol) is approved by the ACL Ethics Committee. |
 | Feb 2, 2024 | The ARR data collection project is born. |
 | Jan 28, 2024 | [Dagstuhl seminar on peer review](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24052). |
 {: .news-table}
