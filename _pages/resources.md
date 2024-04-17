@@ -1,7 +1,7 @@
 ---
 title: Resources
 layout: single
-permalink: /resources
+permalink: /resources/
 sidebar: false
 toc: false
 toc_sticky: false

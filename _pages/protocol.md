@@ -1,7 +1,7 @@
 ---
 title: Data Collection Protocol for ARR-DC
 layout: single
-permalink: /protocol
+permalink: /protocol/
 sidebar: false
 toc: false
 toc_sticky: false
