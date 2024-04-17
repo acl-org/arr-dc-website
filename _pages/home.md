@@ -22,9 +22,10 @@ While peer review data collection is currently happening in the ACL venues
 positive reviewer scores. By adapting the data collection protocol to create
 more balanced data resources, we can improve the quality of this line of
 research. For the current data collection protocol, as well as the changes made
-in comparison to the earlier protocol, see the [Protocol page](/protocol). Some
-resources to get started with the subject of NLP research on peer review are
-listed on the [Resources page](/resources).
+in comparison to the earlier protocol, see the [Protocol page]({% link
+_pages/protocol.md %}). Some resources to get started with the subject of NLP
+research on peer review are listed on the [Resources page]({% link
+_pages/resources.md %}).
 
 Considering the recent developments in natural language processing, we believe
 it is time to ramp up our efforts in studying peer review in our community. The
@@ -38,10 +39,12 @@ the peer review process.
 
 You can contribute by donating your data to the ARR-DC corpus by signing the
 respective license transfer agreements when submitting to or reviewing for \*ACL
-affiliated venues. For more information, see the [Protocol page](/protocol). It
-is always possible to withdraw your consent for future donation of your data -
-however, note that retraction of individual data points is infeasible after
-publication.
+affiliated venues. For more information, see the [Protocol page]({% link
+_pages/protocol.md %}). It is always possible to withdraw your consent for
+future donation of your data - however, note that retraction of individual data
+points is infeasible after publication.
+
+You can find answers to frequently asked questions on the [FAQ page]({% link _pages/faq.md %}).
 
 ## News
 
@@ -53,7 +56,7 @@ publication.
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
-| Apr 4, 2024 | The [data collection protocol](/protocol) is approved by the ACL Ethics Committee. |
+| Apr 4, 2024 | The [data collection protocol]({% link _pages/protocol.md %}) is approved by the ACL Ethics Committee. |
 | Feb 2, 2024 | The ARR data collection project is born. |
 | Jan 28, 2024 | [Dagstuhl seminar on peer review](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24052). |
 {: .news-table}
