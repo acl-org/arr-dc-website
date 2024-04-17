@@ -11,7 +11,7 @@ toc_sticky: false
 
 On this page, you will find some resources related to collection of, and
 research on, peer review data in the ACL community. The initiative was
-pioneered by Gurevych and Kuznetsov from [UKP Lab, TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp).
+pioneered by Gurevych, Kuznetsov and Dycke from [UKP Lab, TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp).
 
 <style>
 .news-table { font-size: .9em; table-layout: fixed; }

@@ -9,8 +9,8 @@ toc_sticky: false
 
 ## Information for authors, reviewers and meta-reviewers
 
-The data collection protocol for ARR-DC builds on the initiative by [Gurevych
-and Kuznetsov (2021)](/resources/). A general overview of the updated data
+The data collection protocol for ARR-DC builds on the initiative by [Gurevych,
+Kuznetsov and Dycke (2021)](/resources/). A general overview of the updated data
 collection protocol for each role in the peer review process can be found
 [below](#overview-of-april-2024-protocol).
 
