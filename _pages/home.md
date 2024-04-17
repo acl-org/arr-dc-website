@@ -56,7 +56,7 @@ You can find answers to frequently asked questions on the [FAQ page]({% link _pa
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
-| Apr 4, 2024 | The [data collection protocol]({% link _pages/protocol.md %}) is approved by the ACL Ethics Committee. |
+| Apr 4, 2024 | The [data collection protocol]({% link _pages/protocol.md | relative_url %}) is approved by the ACL Ethics Committee. |
 | Feb 2, 2024 | The ARR data collection project is born. |
 | Jan 28, 2024 | [Dagstuhl seminar on peer review](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24052). |
 {: .news-table}
