@@ -7,8 +7,5 @@ toc: false
 toc_sticky: false
 ---
 
-If you have questions about this site, or the project, email us at:
-
-```
-arr-dc@acl.org
-```
+If you have questions about this site, or the project, [send us an
+email!](mailto:arr-dc@acl.org?subject=ARR-DC%20Inquiry)

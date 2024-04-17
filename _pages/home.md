@@ -43,9 +43,6 @@ is always possible to withdraw your consent for future donation of your data -
 however, note that retraction of individual data points is infeasible after
 publication.
 
-For more detailed information, see [this
-blogpost](https://aclrollingreview.org/datacollection) on the ARR website.
-
 ## News
 
 **The new data collection protocol is implemented in the April 2024 ARR cycle.**
