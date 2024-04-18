@@ -19,10 +19,10 @@ livereload: true
 locale: "en-US"
 title: "ARR Data Collection"
 title_separator: "-"
-name: "arr-data-collection"
+name: "ARR Data Collection"
 description: "Official website for the ACL Rolling Review Data Collection Project"
-url:  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl:  # the subpath of your site, e.g. "/blog"
+url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: # the subpath of your site, e.g. "/blog"
 repository: "acl-org/arr-dc-website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: "/assets/images/logos/acl-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -109,7 +109,7 @@ footer:
       url: https://twitter.com/aclmeeting
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/acl-org/acl-2024
+      url: https://github.com/acl-org/arr-dc-website
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
