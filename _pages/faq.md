@@ -9,7 +9,7 @@ toc_sticky: false
 
 ### How can authors donate their data to ARR-DC?
 
-Authors can sigh the license transfer agreement when they submit a paper in
+Authors can sign the license transfer agreement when they submit a paper in
 OpenReview. The license agreement is available at the bottom of the submission
 form.
 
