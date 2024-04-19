@@ -12,7 +12,7 @@ toc_sticky: false
 The data collection protocol for ARR-DC builds on the initiative by [Gurevych,
 Kuznetsov and Dycke (2021)](/resources/). A general overview of the updated data
 collection protocol for each role in the peer review process can be found
-[below](#overview-of-april-2024-protocol).
+[below](#overview-of-current-protocol).
 
 The ARR-DC organization invests reasonable effort to allow reviewers and authors
 to withdraw their consent and license agreement at any time. The data collection
@@ -24,8 +24,8 @@ Committee](https://www.aclweb.org/adminwiki/index.php?title=Formation_of_the_ACL
 
 ### Important changes
 
-From April 2024 onwards, the protocol described on this page will be in place.
-Below are the key novelties with respect to the pre-April 2024 protocol:
+From April 2024 onwards, the new protocol described on this page will be in
+place. Below are the key novelties with respect to the pre-April 2024 protocol:
 
 - Authors now decide on data donation during submission and can revise this
   decision throughout the reviewing process.
@@ -36,9 +36,11 @@ Below are the key novelties with respect to the pre-April 2024 protocol:
   protocol.
 
 _The pre-April 2024 protocol is described in detail in [this
-blogpost](https://aclrollingreview.org/datacollection) on the ARR website._
+blogpost](https://aclrollingreview.org/datacollection) on the ARR website. For a
+short overview, refer to the respective [section
+below](#overview-of-pre-april-2024-protocol)._
 
-## Overview of April 2024 protocol
+## Overview of current protocol
 
 ### For authors
 
@@ -63,3 +65,21 @@ Area Chairs (ACs) are asked to sign a license agreement to donate all their
 meta-reviews for the ARR cycle, or they can grant the license for all future ARR
 cycles until consent is withdrawn. Additionally, ACs can specify if they prefer
 their meta-reviews to be included as-is or paraphrased.
+
+## Overview of pre-April 2024 protocol
+
+### For authors
+
+Authors are requested to consent to the collection of their data after the
+review process is completed and acceptance decisions are released. Collected
+data includes the submission draft and the donated peer reviews of their draft.
+
+### For reviewers
+
+Reviewers are asked once per cycle if they are willing to donate their peer
+review reports. The collected data consists of the review texts only.
+
+### For meta-reviewers
+
+ACs are asked to consent to the sharing of reviews of papers that are eventually
+accepted at an \*ACL conference. Meta-review texts are **NOT** collected.
