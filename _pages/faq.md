@@ -13,7 +13,7 @@ Authors can sign the license transfer agreement when they submit a paper in
 OpenReview. The license agreement is available at the bottom of the submission
 form.
 
-<img src="https://via.placeholder.com/600x300" alt="Screenshot coming soon" title="Screenshot coming soon">
+[![Author submission decision](/assets/images/faq/authors_submission_decision.png)](/assets/images/faq/authors_submission_decision.png)
 
 ### How can authors revise their donation decision?
 
@@ -21,4 +21,4 @@ Once a paper is submitted, authors can revise their donation decision by going
 to the paper forum and clicking the "Edit submission" button. In the dropdown
 menu, there is an option to change the donation status.
 
-<img src="https://via.placeholder.com/600x300" alt="Screenshot coming soon" title="Screenshot coming soon">
+[![Author change decision](/assets/images/faq/authors_change_decision.png)](/assets/images/faq/authors_change_decision.png)
