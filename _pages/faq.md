@@ -15,6 +15,12 @@ form.
 
 [![Author submission decision](/assets/images/faq/authors_submission_decision.png)](/assets/images/faq/authors_submission_decision.png)
 
+There is another checkbox in the submission form for donating metadata
+associated with the submission. **Authors can choose to only donate metadata if
+they wish.**
+
+[![Author metadata donation](/assets/images/faq/author_metadata_donation.png)](/assets/images/faq/author_metadata_donation.png)
+
 ### How can authors revise their donation decision?
 
 Once a paper is submitted, authors can revise their donation decision by going
