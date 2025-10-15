@@ -48,7 +48,7 @@ You can find answers to frequently asked questions on the [FAQ page]({{ '/faq' |
 
 ## News
 
-**ARR-2024 data released! [More info here]({{ '/resources' | relative_url }}).**
+**ARR-2025 data released! [More info here]({{ '/resources' | relative_url }}).**
 {: .text-center .notice--info}
 
 <style>
@@ -56,6 +56,7 @@ You can find answers to frequently asked questions on the [FAQ page]({{ '/faq' |
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| Feb 7, 2025 | ARR-2024 data released! [More info here]({{ '/resources' | relative_url }}). |
 | Apr 4, 2024 | New [data collection protocol]({{ '/protocol' | relative_url }}) implemented in ARR. |
 | Apr 4, 2024 | The [data collection protocol]({{ '/protocol' | relative_url }}) is approved by the ACL Ethics Committee. |
 | Feb 2, 2024 | The ARR data collection project is born. |
