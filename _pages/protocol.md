@@ -42,9 +42,9 @@ below](#overview-of-pre-april-2024-protocol)._
 
 ## Overview of current protocol
 
-### For authors
-
 ![Overview image]({{ 'assets/images/protocol.png' | relative_url }})
+
+### For authors
 
 Authors are requested to consent to the collection of their data at submission
 time. This decision can be revised during the review process. Collected data
