@@ -8,7 +8,7 @@ header:
 excerpt: Collecting and curating a large-scale dataset of peer reviews and associated metadata from the ACL community.
 ---
 
-## Welcome!
+## Welcome
 
 This is the overview website for the ACL Rolling Review Data Collection (ARR-DC)
 project. The ARR-DC project is a community-driven effort to collect and curate a
@@ -48,14 +48,30 @@ You can find answers to frequently asked questions on the [FAQ page]({{ '/faq' |
 
 ## News
 
-**ARR-2025 data released! [More info here]({{ '/resources' | relative_url }}).**
+**Notice on ARR 2024 non-accepted submissions**
 {: .text-center .notice--info}
+Due to a communication error, data from non-accepted submissions in the ARR 2024 April and
+June cycles were released earlier than intended. Under the current policy, these data were
+expected to remain confidential until June 2026.
+
+If you are an author or reviewer of a submission from the ARR 2024 April or June cycles
+and do not have concerns about this early release, you do not need to take any action.
+If you have any concerns or would prefer your data to be retracted, please see [Can data be withdrawn?](https://aclrollingreview.org/datacollection#can-data-be-withdrawn) and [How to reach out to us?](https://aclrollingreview.org/datacollection#how-to-reach-out-to-us) for more details.
+
+**Update to the data collection protocol**
+{: .text-center .notice--info}
+The data collection protocol has been updated to include additional types of review data,
+including the before-and-after-rebuttal versions of review scores and author-flagged review
+issues. Please see [Data Collection Protocol]({{ '/protocol' | relative_url }}) for more details.
 
 <style>
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| Mar 25, 2026 | Notice on ARR 2024 non-accepted submissions. |
+| Mar 25, 2026 | Update to the [data collection protocol]({{ '/protocol' | relative_url }}). |
+| Dec 13, 2025 | ARR-2025 data released! [More info here]({{ '/resources' | relative_url }}). |
 | Feb 7, 2025 | ARR-2024 data released! [More info here]({{ '/resources' | relative_url }}). |
 | Apr 4, 2024 | New [data collection protocol]({{ '/protocol' | relative_url }}) implemented in ARR. |
 | Apr 4, 2024 | The [data collection protocol]({{ '/protocol' | relative_url }}) is approved by the ACL Ethics Committee. |
