@@ -69,6 +69,7 @@ issues. Please see [Data Collection Protocol]({{ '/protocol' | relative_url }}) 
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| May 29, 2026 | ARR-2026 data released! [More info here]({{ '/resources' | relative_url }}). |
 | Mar 25, 2026 | Notice on ARR 2024 non-accepted submissions. |
 | Mar 25, 2026 | Update to the [data collection protocol]({{ '/protocol' | relative_url }}). |
 | Dec 13, 2025 | ARR-2025 data released! [More info here]({{ '/resources' | relative_url }}). |
