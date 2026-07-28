@@ -48,6 +48,34 @@ You can find answers to frequently asked questions on the [FAQ page]({{ '/faq' |
 
 ## News
 
+**From peer review nuances to best practices**
+{: .text-center .notice--info}
+Research on peer review is growing fast. As more studies appear, it becomes both
+necessary and timely to agree on how we handle the small but consequential
+"nuances" in peer review data. These nuances are easy to overlook, yet getting
+them wrong can undermine the rigor of a study.
+
+Using the ARR data, we took a first look at the three most common nuances and
+tried to quantify how much they matter:
+
+- **Paper version.** A manuscript exists in several versions, most notably the
+  initial draft and the camera-ready version.
+- **Score version.** Multiple review score versions exist, such as the initial
+  score and the post-rebuttal score.
+- **Input format.** A manuscript can be fed to a model as Text, JSON, Markdown,
+  or Image.
+
+For the full analysis and our best-practice recommendations for both data
+providers and data users, see the detailed report
+[here](https://arxiv.org/abs/2607.22681).
+
+The ARR data collection effort exists precisely to support this kind of
+analysis. By preserving multiple review data artifacts, it gives the community a
+solid foundation for studying peer review. This year we have further updated the
+author and reviewer license agreement, which will make richer data types
+available, such as author reported review issues (see [Data Collection
+Protocol]({{ '/protocol' | relative_url }})). Stay tuned.
+
 **Notice on ARR 2024 non-accepted submissions**
 {: .text-center .notice--info}
 Due to a communication error, data from non-accepted submissions in the ARR 2024 April and
@@ -69,6 +97,7 @@ issues. Please see [Data Collection Protocol]({{ '/protocol' | relative_url }}) 
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| Jul 28, 2026 | From peer review nuances to best practices. |
 | May 29, 2026 | ARR-2026 data released! [More info here]({{ '/resources' | relative_url }}). |
 | Mar 25, 2026 | Notice on ARR 2024 non-accepted submissions. |
 | Mar 25, 2026 | Update to the [data collection protocol]({{ '/protocol' | relative_url }}). |
